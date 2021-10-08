@@ -6,6 +6,9 @@ Simple tracker for Covid-19 cases and deaths
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
 almost every corner of world is under this disease 
+It is at this point that we realize the importance of identifying new hotspots and death rate increased area so that health sector and government can give more attention there.
+And Covid tracker is the project made for this.
+
 
 # Stack-Used
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
